@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to my blog!"
-description: ""
-date: 2017-07-10
-tags: [sample post, intro]
-comments: false
+title: "Testing Readability with a Bunch of Text"
+description: "A ton of text to test readability."
+date: 2012-05-22
+tags: [sample post, readability, test, intro]
+comments: true
 share: true
 ---
 
