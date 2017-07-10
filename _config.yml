@@ -26,6 +26,8 @@ copyright:
   year:             2017
   name:             Nikhith Naidu
 
+future: true
+
 # Google-analytics
 google-analytics:
   id:               ""
