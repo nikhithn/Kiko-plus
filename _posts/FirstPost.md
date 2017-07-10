@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Welcome to my blog!"
+description: ""
 date: 2017-07-10
 tags: [sample post, intro]
+comments: false
 share: true
 ---
 
