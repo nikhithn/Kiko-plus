@@ -1,5 +1,5 @@
 
-My name is Nikhith Naidu, and I am a developer based out of NYC.  I've spent most of my career in security, but I have worked on everything from DevOps to Machine Learning.  
+Hi! I'm Nikhith Naidu, and I am a developer based out of NYC.  I've spent most of my career in security, but I have worked on everything from DevOps to Machine Learning.  
 
 You can reach out to me at nikhithn@gmail.com.
 
