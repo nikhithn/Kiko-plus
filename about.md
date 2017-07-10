@@ -1,7 +1,3 @@
----
-title: About
-permalink: /about/
----
 
 My name is Nikhith Naidu, and I am a developer based out of NYC.  I've spent most of my career in security, but I have worked on everything from DevOps to Machine Learning.  
 
