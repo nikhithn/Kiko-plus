@@ -28,5 +28,10 @@ So I did something about it.
 
 ## Actually
 
-I created a chrome extension that updates occurences of the error "401 - Unauthorized" to read "401 - Unauthenticated," as it should.  
+I created a chrome extension that updates occurences of the error "401 - Unauthorized" to read "401 - Unauthenticated," as it should.  Even if this correction is just in my own browser, it is cathartic to see it fixed in at least the domain I control. 
 
+If you share my scruple, you can download the extension on my [github](https://github.com/nikhithn/Actually).  
+
+But this got me wondering.  Surely, this can't be the only error in the RFC, and surely there are other errors floating around the internet, hoping to be fixed.  If you know any, send them to me, and I'll add them to my extension.  
+
+Together, let's make the internet slightly more correct.  
