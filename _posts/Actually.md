@@ -28,3 +28,5 @@ So I did something about it.
 
 ## Actually
 
+I created a chrome extension that updates occurences of the error "401 - Unauthorized" to read "401 - Unauthenticated," as it should.  
+
