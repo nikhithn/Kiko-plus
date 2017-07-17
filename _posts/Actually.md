@@ -1,4 +1,4 @@
-# Actually...
+# Actually
 
 ## *"Authorization = credentials"*
 
@@ -8,12 +8,23 @@ Authorization, on the other hand, is verifying that the user has permission or a
 
 So then what of the quote in the sub-header, "Authorization = credentials."  This quotation is taken from the [HTTP RFC](https://tools.ietf.org/html/rfc7235#section-4.2).  This foundational RFC that establishes the protocol that is the backbone of the internet *completely muddles the distinction between authorization and authentication.*  
 
-Here's another quote from the RFC to establish this further.  
+Here's another quote from the RFC to establish this further:  
 
 *"The 401 (Unauthorized) status code indicates that the request has not
    been applied because it lacks valid authentication credentials for
    the target resource."*
    
-I like this quote be
+I like this quote because despite naming the error "Unauthorized," the RFC correctly acknowledges that the credentials are for authentication, proving their own error.  
 
-## 
+## Well Actually,
+
+At the [Recurse Center](https://www.recurse.com/) where I am spending my sabbatical, there is a rule against well actuallies.  Well actuallies, are situations where people make a minor technical correction to a statement that is otherwise correct.  Often the correction in no way advances or contributes to the discussion, and occasionally the correction may even derail the discussion.  
+
+In many ways the correction, I pose above, to modify the HTTP RFC's use of the terms authorization and authentication, is a well actually.  The HTTP RFC has been successfully implemented for 20 years now, since it was published in 1997, so clearly the error did not harm the RFC's purpose.  
+
+But, I still cannot abide.  The distinction is absolutely fundamental --  and for it to be this garbled in use, and for the incorrect usage of these terms to be so widespread...
+
+So I did something about it.  
+
+## Actually
+
