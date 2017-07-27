@@ -8,4 +8,4 @@ share: true
 ---
 
 ## Everything Is Insecure
-It's widely understood that nearly all of software is insecure.  Security is impossibly hard, specifically, to demand that a piece of software has no 
+It is widely understood that nearly all of software is insecure.  I recently, stumbled upon yet another piece of evidence to support that assertion in [this paper](https://www.cs.utah.edu/~regehr/papers/overflow12.pdf) which talks about 
