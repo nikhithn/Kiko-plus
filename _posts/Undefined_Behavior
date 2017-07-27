@@ -8,3 +8,4 @@ share: true
 ---
 
 ## Everything Is Insecure
+It's widely understood that nearly all of software is insecure.  Security is impossibly hard, specifically, to demand that a piece of software has no 
